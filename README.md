@@ -74,7 +74,7 @@ Through the development of this project, I gained practical experience in:
 This project has strengthened my interest in software development and database technologies. It has also given me a better understanding of how software applications can support business operations and improve the management of information.
 
 ## Software Demo Video
-[Software Demo Video](https://www.loom.com/share/134a8bee7d804568aa0cd3ee3ddc3aee)
+[Software Demo Video] https://www.loom.com/share/5be947e9d83f44449ffda82e8f30edf3
 
 
 ## Useful Websites
